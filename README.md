@@ -64,6 +64,16 @@ Detailed comparison: [investisseur2-0.com/en/reviews-comparison.html](https://in
 | **BingX** | Copy trading + Spot/Futures | Active copy community, mobile-first | [BingX bonus](https://investisseur2-0.com/bonus/bingx.html) |
 | **BitMart** | Early-stage altcoins | Fast listings, low fees | [BitMart bonus](https://investisseur2-0.com/bonus/bitmart.html) |
 
+Independent reviews (non-partner venues): [Kraken review 2026](https://investisseur2-0.com/en/resources/kraken-review-2026.html) — security track record and Kraken Pro fees. [Binance review 2026](https://investisseur2-0.com/en/resources/binance-review-2026.html).
+
+## Forex/CFD Brokers
+
+- [Forex and CFD broker FAQ — 24 answers](https://investisseur2-0.com/en/resources/forex-cfd-broker-faq.html) — Regulation, ECN vs market maker, ESMA leverage caps, position sizing.
+- [Best forex/CFD broker 2026](https://investisseur2-0.com/en/resources/best-forex-cfd-broker-2026.html)
+- [eToro review 2026](https://investisseur2-0.com/en/resources/etoro-review-2026.html) — CopyTrader, all-in spreads, no MetaTrader.
+
+Risk warning: CFDs carry a high risk of rapid capital loss due to leverage; most retail accounts lose money on these products.
+
 ## Trading Bots
 
 - [Pionex bots — complete guide](https://investisseur2-0.com/en/resources/pionex-bots-complete-guide.html) — Grid bot, DCA bot, Spot Futures Arbitrage, Trailing Take Profit.
