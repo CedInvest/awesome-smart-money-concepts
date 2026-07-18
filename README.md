@@ -110,7 +110,7 @@ Risk warning: CFDs carry a high risk of rapid capital loss due to leverage; most
 - ICT YouTube series — Michael J. Huddleston. Free Inner Circle Trader framework.
 - *Reading Price Charts Bar by Bar* — Al Brooks. Pure price-action complement.
 - *Trading in the Zone* — Mark Douglas. Trader psychology classic.
-
+- *Wyckoff Method Course*(https://arapov.trade/en/freestudying/wyckoff-method) — Igor Arapov. Free 9-lesson course on volume analysis and the Wyckoff method: market phases, spring/upthrust, order flow reading.
 ## Contributing
 
 Pull requests welcome. Inclusion criteria:
