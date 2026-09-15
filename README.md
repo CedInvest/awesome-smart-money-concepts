@@ -60,6 +60,7 @@ Always check which legal entity actually serves you. Several groups route client
 - [ESMA](https://www.esma.europa.eu) — European register of MiCA-authorised entities.
 - [FCA](https://www.fca.org.uk) — UK register and warning list for cryptoasset firms.
 - [Crypto exchange ranking 2026](https://investisseur2-0.com/en/resources/meilleurs-exchanges-crypto-2026.html) — Compared by use case, licences verified one by one.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Books
 
