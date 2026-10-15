@@ -41,6 +41,7 @@ This list favours what is free and verifiable. Raw data sources and regulators s
 
 ## Smart Money Concepts and ICT
 
+- [Liquidity sweep vs breakout review](https://www.agprolabs.com/insights/liquidity-sweep-vs-breakout/) — Free guide to reference selection, confirmed timing and ambiguous cases; distinguishes chart-inferred liquidity from executable order-book depth.
 - [Smart Money Concepts pillar guide](https://investisseur2-0.com/en/resources/smart-money-concepts-crypto.html) — Order Blocks, FVG, BOS, CHoCH, institutional liquidity.
 - [SMC glossary](https://investisseur2-0.com/en/resources/smc-glossary.html) — Over sixty terms defined.
 - [Order blocks explained](https://investisseur2-0.com/en/resources/order-blocks-crypto.html) — Spotting institutional order zones.
